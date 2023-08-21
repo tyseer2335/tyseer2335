@@ -7,7 +7,7 @@
     
 - 🔭 I’m currently working on [World-Weather-IOS](https://github.com/tyseer2335/World-Weather-IOS)
 
-- 👯 I’m collaborating on [World-Language-Graph-3D](https://github.com/tyseer2335/World-Language-Graph-3D)  
+- 👯 I’m collaborating on [World-Language-Graph](https://github.com/tyseer2335/World-Language-Graph)  
   
 - 🌱 I’m currently learning **Swift & IOS Development**  
   
