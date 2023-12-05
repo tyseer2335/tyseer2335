@@ -7,7 +7,7 @@
     
 - 🔭 I’m currently working on [World-Weather-IOS](https://github.com/tyseer2335/World-Weather-IOS)
 
-- 👯 I’m collaborating on [World-Language-Graph](https://github.com/tyseer2335/World-Language-Graph)  
+- 👯 I’m collaborating on [Pokemon-Battle-Simulator](https://github.com/YehyunLee/PokemonGame)  
   
 - 🌱 I’m currently learning **Swift & IOS Development**  
   
@@ -17,7 +17,7 @@
   
 - 📄 Know about my experiences [https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/](https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/)  
   
-- ⚡ Interests **I like Soccer, working out and video games during my free time**  
+- ⚡ Interests **I like Soccer, working out, and video games during my free time**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
