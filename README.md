@@ -7,7 +7,7 @@
     
 - 🔭 I’m currently working on [World-Weather-IOS](https://github.com/tyseer2335/World-Weather-IOS)
 
-- 👯 I’m collaborating on [Pokemon-Battle-Simulator]([https://github.com/YehyunLee/PokemonGame](https://github.com/tyseer2335/PokemonBattleSimulator))  
+- 👯 I’m collaborating on [Pokemon-Battle-Simulator](https://github.com/tyseer2335/PokemonBattleSimulator)  
   
 - 🌱 I’m currently learning **Swift & IOS Development**  
   
