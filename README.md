@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **Swift & IOS Development**  
   
-- 👨‍💻 Personal Portfolio [https://tyseer.me/](https://tyseer.me/)  
+- 👨‍💻 Personal Portfolio [https://tyseer.me/](https://tyseer.ca/)  
   
 - 📫 How to reach me **tyseer.toufiq@mail.utoronto.ca**  
   
