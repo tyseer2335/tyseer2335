@@ -1,7 +1,7 @@
 ![Alt text](https://boundless.utoronto.ca/wp-content/uploads/give/Give@2x.jpg "Banner") 
 <h1 align="center">Hi 👋, I'm Tyseer Toufiq</h1>  
 <h3 align="center">A student at UofT.</h3>  
-<img align="right" alt="Coding" width="400" src="http://www.reddit.com/r/reactiongifs/comments/3a8akf/my_cats_reaction_when_i_leave_home/">
+<img align="right" alt="Gif" width="400" src="https://media1.tenor.com/m/eNu5KK9s1RAAAAAC/cat-work.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyseer2335&label=Profile%20views&color=0e75b6&style=flat" alt="tyseer2335" /> </p>  
     
