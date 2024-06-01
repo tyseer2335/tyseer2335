@@ -5,11 +5,11 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyseer2335&label=Profile%20views&color=0e75b6&style=flat" alt="tyseer2335" /> </p>  
     
-- 🔭 I’m currently working on [World-Weather-IOS](https://github.com/tyseer2335/World-Weather-IOS)
+- 🔭 I’m currently working on [Learning Tensorflow & Machine Learning](https://github.com/tyseer2335/Tensorflow-Notes)
 
 - 👯 I’m collaborating on [Pokemon-Battle-Simulator](https://github.com/tyseer2335/PokemonBattleSimulator)  
   
-- 🌱 I’m currently learning **Swift & IOS Development**  
+- 🌱 I’m currently learning **Machine Learning**  
   
 - 👨‍💻 Personal Portfolio [https://tyseer.ca/](https://tyseer.ca/)  
   
