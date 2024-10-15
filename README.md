@@ -7,7 +7,7 @@
     
 - 📖 I’m currently reading through [Introduction to Algorithms](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf)
 
-- 👯 I’m collaborating on [A Tool to aid AI Forecasting research](https://github.com/csc301-2024-f/project-14-ml-cs-uoft)  
+- 🤝 I’m collaborating on [A Tool to aid AI Forecasting research](https://github.com/csc301-2024-f/project-14-ml-cs-uoft)  
   
 - 🌱 I’m currently interested in learning more about **Ai / ML**  
   
