@@ -9,7 +9,7 @@
 
 - 👯 I’m collaborating on [A Tool to aid AI Forecasting research](https://github.com/csc301-2024-f/project-14-ml-cs-uoft)  
   
-- 🌱 I’m currently interested in learning more about **Ai / Machine Learning**  
+- 🌱 I’m currently interested in learning more about **Ai / ML**  
   
 - 👨‍💻 Personal Portfolio [https://tyseer.ca/](https://tyseer.ca/)  
   
