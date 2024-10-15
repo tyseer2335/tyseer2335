@@ -5,7 +5,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyseer2335&label=Profile%20views&color=0e75b6&style=flat" alt="tyseer2335" /> </p>  
     
-- 📖 I’m currently reading through [Introduction to Algorithms](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf)
+- 📖 I’m currently reading through [Introduction to Algorithms (CLRS)](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf)
 
 - 🤝 I’m collaborating on [A Tool to aid AI Forecasting research](https://github.com/csc301-2024-f/project-14-ml-cs-uoft)  
   
