@@ -7,19 +7,20 @@
     
 - 📖 I’m currently reading through [Introduction to Algorithms (CLRS)](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf)
 
-- 🤝 I’m collaborating on [A Tool to aid AI Forecasting research](https://github.com/csc301-2024-f/project-14-ml-cs-uoft)  
+- 🤝 I’m collaborating on [A Tool to aid AI Forecasting Research](https://github.com/csc301-2024-f/project-14-ml-cs-uoft)  
   
-- 🌱 I’m currently interested in learning more about **Ai / ML**  
+- 🌱 Research Interests **Machience Learning, Generative Ai / LLMs**  
   
 - 👨‍💻 Personal Portfolio [https://tyseer.ca/](https://tyseer.ca/)  
   
 - 📫 How to reach me **tyseer.toufiq@mail.utoronto.ca**  
   
-- 📄 Know about my experiences [https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/](https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/)  
+- 📄 Know about my experiences: [https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/](https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/)  
   
-- ⚡ Interests **Outside of academics, I'm a huge football (soccer) fan and love to play the sport occasionally.**  
-  **I also enjoy playing video games, especially ones with a great story.**  
-  **Lastly, I'm interested in traveling to new places and meeting new people.**
+- ⚡ Interests (non-nerdy stuff):
+  **⚽ I'm a huge football (soccer) fan and love to play the sport occasionally.**  
+  **🎮 I also enjoy playing video games, especially ones with a great story.**  
+  **✈️ Lastly, I'm interested in traveling to new places and meeting new people.**
  
   
 <h3 align="left">Connect with me:</h3>  
