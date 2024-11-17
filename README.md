@@ -18,9 +18,16 @@
 - 📄 Know about my experiences: [https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/](https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/)  
   
 - ⚡ Interests (non-nerdy stuff):
-  **⚽ I'm a huge football (soccer) fan and love to play the sport occasionally.**  
-  **🎮 I also enjoy playing video games, especially ones with a great story.**  
-  **✈️ Lastly, I'm interested in traveling to new places and meeting new people.**
+  - ⚽ I'm a huge football (soccer) fan and love to play the sport occasionally.
+    - Here's a [picture of me](https://drive.google.com/file/d/1yVrP1fjP2Gr-57YMR-jxdqBaSqDAcjXr/view?usp=sharing) at one of the 2024 Copa America Tournament games at Arlington, Texas.  
+    - I also enjoy casual pick-up games and intramurals with friends.
+    - My favourite team is [Barca](https://en.wikipedia.org/wiki/FC_Barcelona).
+  - 🎮 I also enjoy playing video games, especially ones with a great story.
+    - You can see what I'm playing [here](https://steamcommunity.com/profiles/76561198379082096/).
+  - ✈️ Lastly, I'm interested in traveling to new places and meeting new people.
+    - Recently visited: New York, Bangladesh, Dallas, and Toronto.
+    - Bucket list: Japan, Spain, and Singapore.
+
  
   
 <h3 align="left">Connect with me:</h3>  
