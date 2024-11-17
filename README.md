@@ -17,7 +17,10 @@
   
 - 📄 Know about my experiences [https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/](https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/)  
   
-- ⚡ Interests **Outside of academics, I'm a huge football (soccer) fan and love to play the sport occasionally. I also enjoy playing video games, especially ones with a great story. Lastly, I'm interested in traveling to new places and meeting new people**  
+- ⚡ Interests **Outside of academics, I'm a huge football (soccer) fan and love to play the sport occasionally.**  
+  **I also enjoy playing video games, especially ones with a great story.**  
+  **Lastly, I'm interested in traveling to new places and meeting new people.**
+ 
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
