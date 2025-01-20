@@ -19,7 +19,7 @@
   - ⚽ I'm a huge football (soccer) fan and love to play the sport occasionally.
     - Here's a [picture of me](https://drive.google.com/file/d/1yVrP1fjP2Gr-57YMR-jxdqBaSqDAcjXr/view?usp=sharing) at one of the 2024 Copa America Tournament games at Arlington, Texas.  
     - I also enjoy casual pick-up games and intramurals with friends.
-    - My favourite team is [Barca](https://en.wikipedia.org/wiki/FC_Barcelona).
+    - My favorite team is 🔴🔵.
   - 🎮 I also enjoy playing video games, especially ones with a great story.
     - You can see what I'm playing [here](https://steamcommunity.com/profiles/76561198379082096/).
   - ✈️ Lastly, I'm interested in traveling to new places and meeting new people.
