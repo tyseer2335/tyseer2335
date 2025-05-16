@@ -21,8 +21,8 @@
   - 🎮 I also enjoy playing video games, especially ones with a great story.
     - You can see what I'm playing [here](https://steamcommunity.com/profiles/76561198379082096/).
   - ✈️ Lastly, I'm interested in traveling to new places and meeting new people.
-    - Recently visited: New York, Bangladesh, Dallas, and Toronto.
-    - Bucket list: Japan, Spain, and Dubai.
+    - Recently visited: Japan
+    - Bucket list: Spain, UAE (Dubai), and Singapore.
 
  
   
