@@ -5,7 +5,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyseer2335&label=Profile%20views&color=0e75b6&style=flat" alt="tyseer2335" /> </p>  
 
-- 💼 I’m currently working as a Software Developer Intern @ [RBC]([https://www.linkedin.com/in/tyseer-toufiq-a3b8b11aa/](https://www.rbcroyalbank.com/personal.html)
+- 💼 I’m currently working as a Software Developer Intern @ [RBC](https://www.rbcroyalbank.com/personal.html)
    
 - 👨‍💻 Personal Portfolio [https://tyseer.ca/](https://tyseer.ca/)  
   
