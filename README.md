@@ -3,7 +3,9 @@
 <h3 align="center">CS + Math + Stats Undergrad @ UofT.</h3>  
 <img align="right" alt="Gif" width="400" src="https://media1.tenor.com/m/eNu5KK9s1RAAAAAC/cat-work.gif">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyseer2335&label=Profile%20views&color=0e75b6&style=flat" alt="tyseer2335" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyseer2335&label=Profile%20views&color=0e75b6&style=flat" alt="tyseer2335" /> </p>   
+
+- 🌟 Current Software Developer Intern @ [TD](https://www.td.com/ca/en/personal-banking)
 
 - 💼 Previous Software Developer Intern @ [RBC](https://www.rbcroyalbank.com/personal.html)
    
