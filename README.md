@@ -5,8 +5,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyseer2335&label=Profile%20views&color=0e75b6&style=flat" alt="tyseer2335" /> </p>   
 
-- 🌟 Current Software Developer Intern @ [TD](https://www.td.com/ca/en/personal-banking)
-
 - 💼 Previous Software Developer Intern @ [RBC](https://www.rbcroyalbank.com/personal.html)
    
 - 👨‍💻 Personal Portfolio [https://tyseer.ca/](https://tyseer.ca/)  
