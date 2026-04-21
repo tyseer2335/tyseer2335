@@ -1,9 +1,5 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="uoft.jpg" alt="UofT banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=120" alt="header" />
 </p>
 
@@ -114,7 +110,11 @@ contact: tyseer.toufiq@mail.utoronto.ca
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tyseer2335/tyseer2335/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyseer2335/tyseer2335/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyseer2335/tyseer2335/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/tyseer2335/tyseer2335/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  </picture>
 </p>
 
 ---
