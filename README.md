@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="cat working gif" width="450" src="https://media1.tenor.com/m/eNu5KK9s1RAAAAAC/cat-work.gif" />
+  <img alt="cat working gif" width="380" src="https://media1.tenor.com/m/eNu5KK9s1RAAAAAC/cat-work.gif" />
 </p>
 
 <!-- ============ SOCIALS ============ -->
@@ -38,10 +38,6 @@
   &nbsp;&nbsp;
   <a href="https://www.leetcode.com/tyseer2335" target="_blank">
     <img src="assets/leetcode.png" alt="LeetCode" width="60" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://kaggle.com/tyseertoufiq" target="_blank">
-    <img src="https://img.icons8.com/color/96/kaggle.png" alt="Kaggle" width="60" />
   </a>
 </p>
 
