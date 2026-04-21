@@ -17,27 +17,31 @@
 <!-- ============ SOCIALS ============ -->
 <p align="center">
   <a href="https://tyseer.ca/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Portfolio" width="60" />
+    <img src="assets/website.png" alt="Portfolio" width="60" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/tyseer-toufiq-a3b8b11aa" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" />
+    <img src="assets/linkedin.png" alt="LinkedIn" width="60" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://kaggle.com/tyseertoufiq" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLYBW/CLYBW/main/assets/kaggle.png" alt="Kaggle" width="60" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/tyseer2335" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLYBW/CLYBW/main/assets/leetcode.png" alt="LeetCode" width="60" />
+  <a href="https://x.com/tyseer2334" target="_blank">
+    <img src="assets/twitter.png" alt="Twitter" width="60" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/tyseer_2335" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" />
+    <img src="assets/instagram.png" alt="Instagram" width="60" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tyseer.toufiq@mail.utoronto.ca">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Email" width="60" />
+  <a href="https://discord.com/users/tyrone_2335" target="_blank">
+    <img src="assets/discord.png" alt="Discord" width="60" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/tyseer2335" target="_blank">
+    <img src="assets/leetcode.png" alt="LeetCode" width="60" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kaggle.com/tyseertoufiq" target="_blank">
+    <img src="https://img.icons8.com/color/96/kaggle.png" alt="Kaggle" width="60" />
   </a>
 </p>
 
