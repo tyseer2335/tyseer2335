@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=120" alt="header" />
 </p>
 
-<h1 align="center">I'm Tyseer 👋</h1>
+<h1 align="center">I'm Tyseer</h1>
 <h3 align="center">CS + Math + Stats Undergrad @ UofT 🍁</h3>
 
 <p align="center">
