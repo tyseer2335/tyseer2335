@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">I'm Tyseer</h1>
-<h3 align="center">CS + Math + Stats Undergrad @ UofT 🍁</h3>
+<h3 align="center">CS @ UofT 🍁</h3>
 <h3 align="center">SWE Intern @ AWS, prev RBC</h3>
 
 <p align="center">
@@ -47,16 +47,14 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Tyseer Toufiq
-school: University of Toronto
+name: tyseer toufiq 
+school: university of toronto
 studying:
-  - Computer Science
-  - Mathematics
-  - Statistics
-previously: Software Developer Intern @ RBC
+  - major: computer science  
+  - minor: math & stats
 currently:
   building: personal projects + leetcode grind
-  learning: ML / systems / whatever catches my eye
+  learning: ml / systems / whatever catches my eye
 contact: tyseer.toufiq@mail.utoronto.ca
 ```
 
@@ -73,7 +71,7 @@ Huge fan, casual player. I go to pick-up games and intramurals whenever I can.
 - Especially story-driven ones. See what I'm playing on [Steam](https://steamcommunity.com/profiles/76561198379082096/).
 
 #### ✈️ Travel
-- **Recently visited:** Japan, Bangladesh
+- **Recently visited:** Japan, Vancouver
 - **Bucket list:** Spain, Singapore, Italy
   
 ---
