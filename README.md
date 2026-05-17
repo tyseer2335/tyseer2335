@@ -5,6 +5,7 @@
 
 <h1 align="center">I'm Tyseer</h1>
 <h3 align="center">CS + Math + Stats Undergrad @ UofT 🍁</h3>
+<h3 align="center">SWE Intern @ AWS, prev RBC</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tyseer2335&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -95,19 +96,6 @@ Huge fan, casual player. I go to pick-up games and intramurals whenever I can.
 
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,firebase,heroku,postman,selenium,androidstudio,unity,git,github,vscode" alt="platforms" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tyseer2335&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyseer2335&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyseer2335&theme=tokyonight" alt="streak" />
 </p>
 
 ---
