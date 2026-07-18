@@ -65,7 +65,7 @@ contact: tyseer.toufiq@mail.utoronto.ca
 #### ⚽ Football (Soccer)
 Huge fan, casual player. I go to pick-up games and intramurals whenever I can.
 - **Favorite team:** [🔴🔵](https://www.youtube.com/watch?v=h4m68r8kWAc&t=213s)
-- **Copa America 2024:** [photo](https://drive.google.com/file/d/1yVrP1fjP2Gr-57YMR-jxdqBaSqDAcjXr/view?usp=sharing)
+- **World Cup 2026:** [photo](https://drive.google.com/file/d/1DMLg0Yrlof7O6dmS9ruyAYP74RMtpC4f/view?usp=sharing)
 
 #### 🎮 Video Games
 - Especially story-driven ones. See what I'm playing on [Steam](https://steamcommunity.com/profiles/76561198379082096/).
